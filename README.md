@@ -1,21 +1,14 @@
 ### Hi there, I'm Soroush Mahdi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - 🌱 I’m currently learning web development and software architecture design
-- 👯 I’m looking to collaborate on educational software
-- 📫 You can use this email to reach me: m.mehrashahidi@gmail.com
-- 📑 I’m currently working on [portfolio-website](https://github.com/m3hransh/portfolio-website), which is an opensource project for connecting your portfolio to a [Notion](https://notion.so) page
+- :books: I have a BSc in Computer Engineering and currently I'm pursuing an MSc in Artificial Intelligence with a research focus on the robustness of deep learning models.
+- 📫 You can use this email to reach me: soroushm@aut.ac.ir
+- 📑 I am actively seeking Ph.D. positions in the areas of deep learning and computational neuroscience.
 
-### Frameworks, Libraries
-- React
-- Next.js
-- GraphQL
-- ML: PyTorch, Panda, NumPy and etc.
-
-### Coding Tools
-- IDE: 💜Neovim💜
-- Terminal: Kitty
-- Shell: Fish
-- Tmux
+### Frameworks, Libraries, Tools
+- PyTorch, Tensorflow
+- NumPy, OpenCV, scikit-learn, Pandas
+- Visual Studio Code
 
 ### Human Languages
 - Persian (Native)
