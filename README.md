@@ -6,10 +6,9 @@
 
 ## 📔 Research Interests
 - **Adversarial Robustness**
-  - Adversarial Training
 - **Computational Neuroscience**
   - I am particularly interested in computational neuroscience, with a specific focus on comparing vision models based on deep learning with the human brain's vision system.
-
+- **Computer Vision**
 
 
 ## 👨‍💻 Technical Skills
