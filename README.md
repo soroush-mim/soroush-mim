@@ -3,6 +3,7 @@
 - :books: currently I'm pursuing an MSc in Artificial Intelligence with a research focus on the robustness of deep learning models.
 - 📑 I am actively seeking Ph.D. positions in the areas of deep learning and computational neuroscience.
 - 📫 You can use this email to reach me: soroushm@aut.ac.ir
+- My Personal Blog: [soroush-mim.github.io](https://soroush-mim.github.io/)
 
 ## 📔 Research Interests
 - **Adversarial Robustness**
